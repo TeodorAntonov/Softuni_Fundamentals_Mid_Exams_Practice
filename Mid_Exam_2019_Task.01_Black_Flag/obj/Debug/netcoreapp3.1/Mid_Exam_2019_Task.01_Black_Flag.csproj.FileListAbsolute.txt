@@ -1,0 +1,13 @@
+E:\GitHub\Mid_Exam_2019_Task.01_Black_Flag\Mid_Exam_2019_Task.01_Black_Flag\bin\Debug\netcoreapp3.1\Mid_Exam_2019_Task.01_Black_Flag.exe
+E:\GitHub\Mid_Exam_2019_Task.01_Black_Flag\Mid_Exam_2019_Task.01_Black_Flag\bin\Debug\netcoreapp3.1\Mid_Exam_2019_Task.01_Black_Flag.deps.json
+E:\GitHub\Mid_Exam_2019_Task.01_Black_Flag\Mid_Exam_2019_Task.01_Black_Flag\bin\Debug\netcoreapp3.1\Mid_Exam_2019_Task.01_Black_Flag.runtimeconfig.json
+E:\GitHub\Mid_Exam_2019_Task.01_Black_Flag\Mid_Exam_2019_Task.01_Black_Flag\bin\Debug\netcoreapp3.1\Mid_Exam_2019_Task.01_Black_Flag.runtimeconfig.dev.json
+E:\GitHub\Mid_Exam_2019_Task.01_Black_Flag\Mid_Exam_2019_Task.01_Black_Flag\bin\Debug\netcoreapp3.1\Mid_Exam_2019_Task.01_Black_Flag.dll
+E:\GitHub\Mid_Exam_2019_Task.01_Black_Flag\Mid_Exam_2019_Task.01_Black_Flag\bin\Debug\netcoreapp3.1\Mid_Exam_2019_Task.01_Black_Flag.pdb
+E:\GitHub\Mid_Exam_2019_Task.01_Black_Flag\Mid_Exam_2019_Task.01_Black_Flag\obj\Debug\netcoreapp3.1\Mid_Exam_2019_Task.01_Black_Flag.csprojAssemblyReference.cache
+E:\GitHub\Mid_Exam_2019_Task.01_Black_Flag\Mid_Exam_2019_Task.01_Black_Flag\obj\Debug\netcoreapp3.1\Mid_Exam_2019_Task.01_Black_Flag.AssemblyInfoInputs.cache
+E:\GitHub\Mid_Exam_2019_Task.01_Black_Flag\Mid_Exam_2019_Task.01_Black_Flag\obj\Debug\netcoreapp3.1\Mid_Exam_2019_Task.01_Black_Flag.AssemblyInfo.cs
+E:\GitHub\Mid_Exam_2019_Task.01_Black_Flag\Mid_Exam_2019_Task.01_Black_Flag\obj\Debug\netcoreapp3.1\Mid_Exam_2019_Task.01_Black_Flag.csproj.CoreCompileInputs.cache
+E:\GitHub\Mid_Exam_2019_Task.01_Black_Flag\Mid_Exam_2019_Task.01_Black_Flag\obj\Debug\netcoreapp3.1\Mid_Exam_2019_Task.01_Black_Flag.dll
+E:\GitHub\Mid_Exam_2019_Task.01_Black_Flag\Mid_Exam_2019_Task.01_Black_Flag\obj\Debug\netcoreapp3.1\Mid_Exam_2019_Task.01_Black_Flag.pdb
+E:\GitHub\Mid_Exam_2019_Task.01_Black_Flag\Mid_Exam_2019_Task.01_Black_Flag\obj\Debug\netcoreapp3.1\Mid_Exam_2019_Task.01_Black_Flag.genruntimeconfig.cache

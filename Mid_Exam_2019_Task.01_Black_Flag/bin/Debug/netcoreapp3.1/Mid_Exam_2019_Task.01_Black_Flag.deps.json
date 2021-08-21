@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mid_Exam_2019_Task.01_Black_Flag/1.0.0": {
+        "runtime": {
+          "Mid_Exam_2019_Task.01_Black_Flag.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mid_Exam_2019_Task.01_Black_Flag/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
